@@ -1,5 +1,4 @@
 from flask import Flask, jsonify  
-
 app = Flask(__name__)
 
 my_info = {
